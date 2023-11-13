@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dat(Dino)</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<img  algin=“right” alt=“Coding” width=“200”  src="https://media.licdn.com/dms/image/D5612AQELQIp-3N-TZQ/article-cover_image-shrink_720_1280/0/1698045679523?e=2147483647&v=beta&t=UbApL_VYTBFVsL3Z4BpOichS00Z8vgxS0OA6U1Vi424"  />
+<img  algin=“right” alt=“Coding” width=“200”  src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handmadee&label=Profile%20views&color=0e75b6&style=flat" alt="handmadee" /> </p>
 
