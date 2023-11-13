@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dat(Dino)</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A passionate code dạo developer from VietNam</h3>
 
 <img  align="right" alt=“Coding” width=“300”  height="300" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"  />
 
