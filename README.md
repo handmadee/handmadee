@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dat(Dino)</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<img  algin=“right” alt=“Coding” width=“200”  src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"  />
+<img  align="right" alt=“Coding” width=“200”  height="250" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handmadee&label=Profile%20views&color=0e75b6&style=flat" alt="handmadee" /> </p>
 
